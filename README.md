@@ -1,6 +1,6 @@
 # BiasRepair: Mitigating Gender Bias in Software Engineering Course Materials
 
-Replication package for the paper **"Mitigating Gender Bias in Software Engineering Course Materials Using Prompt Engineering and LLaMA"** (FSE 2025).
+Replication package for the paper **"Mitigating Gender Bias in Software Engineering Course Materials Using Prompt Engineering and LLaMA"** .
 
 ## Contents
 
